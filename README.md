@@ -1,1 +1,1 @@
-# Twitter
+# solidity-twitter-project-skeleton
